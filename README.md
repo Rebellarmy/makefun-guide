@@ -13,8 +13,8 @@ This guide walks you from zero to a submitted entry, then to claiming a prize if
 experience assumed — if you can run a coding agent (Claude Code, Codex, Cursor, Copilot, Gemini CLI and dozens
 more are supported) and open a terminal, you can do this.
 
-> **Starting now?** Create your account through my referral link: https://make.fun/r/atfmaa72
-> It costs you nothing, and it helps me out. My referral code is `atfmaa72`.
+> **Starting now?** Create your account through my referral link: https://make.fun/r/zhj6bwjb
+> It costs you nothing, and it helps me out. My referral code is `zhj6bwjb`.
 
 ## Contents
 
@@ -84,7 +84,7 @@ node cli/makefun.mjs login --origin https://make.fun
 ```
 
 It prints a link and a short code. Open the link while signed in to make.fun (use
-[my referral link](https://make.fun/r/atfmaa72) if this is your first visit), check the code matches, and
+[my referral link](https://make.fun/r/zhj6bwjb) if this is your first visit), check the code matches, and
 approve. The first login also creates the keypair described above and puts its wallet on your account. If the
 command stops waiting before you approve, just run it again.
 
@@ -255,8 +255,8 @@ addresses and home paths before anything is uploaded, and `bundle --redact "<tex
 name.
 
 **Why is there a referral code in this guide?**
-Because it helps me at no cost to you. Sign up through https://make.fun/r/atfmaa72 (code `atfmaa72` — the same
-code also works as `?ref=atfmaa72` on any make.fun link) and, if you take part and win, make.fun pays me a
+Because it helps me at no cost to you. Sign up through https://make.fun/r/zhj6bwjb (code `zhj6bwjb` — the same
+code also works as `?ref=zhj6bwjb` on any make.fun link) and, if you take part and win, make.fun pays me a
 referral reward and a share for a while *on top* — your prize stays whole. Once you have an account you get your
 own link on the Referrals tab of your profile, and you can do exactly the same thing. One honest caveat: only
 genuine new accounts that actually take part count — your own second account, bots and signups that never do
@@ -275,5 +275,5 @@ your entries clean, and let the results compound.
 - Browse open bounties at [make.fun](https://make.fun), and ask questions in the
   [Discord](https://discord.gg/makefun).
 
-Good luck — and if this guide got you started, [signing up through my link](https://make.fun/r/atfmaa72) is the
-nicest thank-you there is. Code: `atfmaa72`.
+Good luck — and if this guide got you started, [signing up through my link](https://make.fun/r/zhj6bwjb) is the
+nicest thank-you there is. Code: `zhj6bwjb`.
